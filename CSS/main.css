@@ -110,6 +110,7 @@ body {
       border: 1px solid #f4c123;
       text-transform: lowercase;
       color: #25292c;
+      background-color: transparent;
     }
   }
 }
